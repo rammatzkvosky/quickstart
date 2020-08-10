@@ -13,6 +13,7 @@
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
+
     See the License for the specific language governing permissions and
     limitations under the License.
 -->
@@ -660,7 +661,7 @@
             </modules>
         </profile>
         <profile>
-            <!-- When built in OpenShift the 'openshift' profile will be
+            <!-- When built  in OpenShift the 'openshift' profile will be
                 used when invoking mvn. -->
             <!-- Use this profile for any OpenShift specific customization
                 your app will ne    ed. -->
